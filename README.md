@@ -1,4 +1,4 @@
-# AtliQ-Hardware-Insights-using-SQL2
+# AtliQ-Hardware-Insights-using-SQL
 
 ### Learnings:
 
