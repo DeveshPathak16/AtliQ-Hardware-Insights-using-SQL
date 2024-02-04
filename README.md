@@ -16,8 +16,8 @@ Here are the all the tasks to be completed:
 
 1) Generate a yearly report for Croma India where there are two columns:
 
-Fiscal Year
-Total Gross Sales amount In that year from Croma.
+   Fiscal Year
+   Total Gross Sales amount In that year from Croma.
 
 2) Generate monthly gross sales report for any customer using stored procedure.
 
@@ -41,4 +41,5 @@ The Queries are provided in the text file and the reports generated are provided
 1) Forecast accuracy report using cte.
 2) Forecast accuracy report using temporary table.
 3) Write a query for the below scenario.
+
 The supply chain business manager wants to see which customers’ forecast accuracy has dropped from 2020 to 2021. Provide a complete report with these columns: customer_code, customer_name, market, forecast_accuracy_2020, forecast_accuracy_2021
