@@ -16,8 +16,8 @@ Here are the all the tasks to be completed:
 
 1) Generate a yearly report for Croma India where there are two columns:
 
-   Fiscal Year
-   Total Gross Sales amount In that year from Croma.
+   1) Fiscal Year
+   2) Total Gross Sales amount In that year from Croma.
 
 2) Generate monthly gross sales report for any customer using stored procedure.
 
