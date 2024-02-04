@@ -2,7 +2,7 @@
 
 ### Learnings:
 
-✨ Learned Subqueries, CTEs, Views, Temporary Tables: Explored advanced techniques to write complex queries using Subqueries, making queries more readable and maintanable using Common Table Expressions (CTEs), and created and utilized Views and Temporary tables for efficient data handling.
+✨ Learned Subqueries, CTEs, Views, Temporary Tables: Explored advanced techniques to write complex queries using Subqueries, making queries more readable and maintainable using Common Table Expressions (CTEs), and created and utilized Views and Temporary tables for efficient data handling.
 
 ✨ Fundamentals of ETL, Data Warehouse, OLAP, OLTP: Gained a comprehensive understanding of Extract, Transform, Load (ETL) processes, data warehousing concepts, and the difference between Online Analytical Processing (OLAP) and Online Transactional Processing (OLTP).
 
