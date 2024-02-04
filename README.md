@@ -24,7 +24,7 @@ Here are the all the tasks to be completed:
 
 3) Write a stored procedure that can retrieve market badge. i.e. if total sold quantity > 5 million that market is considered "Gold" else "Silver".
 
-The Queries are provided in the text file and the reports generated are provided as csv files.
+The Queries are provided in the text file.
 
 ✅ For Top Products, Customers and Markets:-
 
